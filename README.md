@@ -4,15 +4,6 @@ This repository provides the training and testing code of our RTM-UIE method.
 
 RTM-UIE is designed for underwater image enhancement by integrating a Retinex prior, transmission estimation, background scattering cues, and transmission-guided residual modulation.
 
-If you find this work useful, please cite our paper.
-
-```bibtex
-@article{rtmuie,
-  title={Underwater Image Enhancement Based on Retinex Prior and Transmission-Guided Residual Modulation},
-  author={Zhang, Bailu and Lin, Sen}
-}
-```
-
 ## Project Structure
 
 ```text
